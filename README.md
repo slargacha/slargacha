@@ -173,16 +173,16 @@ Portfolio website built with GitHub Pages showcasing my skills and projects.
 
 ```
 ┌─────────────┐    ┌─────────────┐    ┌─────────────┐    ┌─────────────┐
-│    PLAN      │───▶│    CODE      │───▶│    BUILD     │───▶│    TEST      │
-│  Jira/Azure  │    │  Git/GitHub  │    │  Docker      │    │  SonarQube/  │
-│  Boards      │    │  VS Code     │    │              │    │  Trivy       │
+│    PLAN     │───▶│    CODE     │───▶│    BUILD    │───▶│    TEST     │
+│  Jira/Azure │    │  Git/GitHub │    │  Docker     │    │  SonarQube/ │
+│  Boards     │    │  VS Code    │    │             │    │  Trivy      │
 └─────────────┘    └─────────────┘    └─────────────┘    └─────────────┘
        ▲                                                          │
        │                                                          ▼
 ┌─────────────┐    ┌─────────────┐    ┌─────────────┐    ┌─────────────┐
-│   OPERATE    │◀───│   MONITOR    │◀───│   DEPLOY     │◀───│   RELEASE    │
-│  Kubernetes/ │    │  Prometheus/ │    │  Azure       │    │  Helm/       │
-│  Terraform   │    │  Grafana     │    │  DevOps      │    │  Kubernetes  │
+│   OPERATE   │◀───│   MONITOR   │◀───│   DEPLOY    │◀───│   RELEASE   │
+│  Kubernetes/│    │  Prometheus/│    │  Azure      │    │  Helm/      │
+│  Terraform  │    │  Grafana    │    │  DevOps     │    │  Kubernetes │
 └─────────────┘    └─────────────┘    └─────────────┘    └─────────────┘
 ```
 
